@@ -8,8 +8,10 @@ The purpose of this analysis was to determine the number of retiring employees p
 -
 - 
 -    
-    **Title**
-    ![picture alt](link)
+    **Retiring Employees by Title**
+    ![picture alt](https://github.com/ChristinaGalley/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
+    **Retiring Employees Eligible for **
+    ![picture alt]()
     
 ---
 ## Summary
