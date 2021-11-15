@@ -11,7 +11,9 @@ The purpose of this analysis was to determine the number of retiring employees p
     ![picture alt](https://github.com/ChristinaGalley/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
 - The mentorship_eligibility table below shows 
    **Retiring Employees Eligible for Mentorship**
-    ![picture alt](https://github.com/ChristinaGalley/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.csv)
+    ![picture alt](https://github.com/ChristinaGalley/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty%20top%205.png)
+    ...
+    ![picture alt]()
     
 ---
 ## Summary
